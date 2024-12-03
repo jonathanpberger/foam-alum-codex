@@ -18,5 +18,12 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+  "markdown.styles": [
+    ".vscode/custom-tag-style.css"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#2B300E",
+    "titleBar.activeBackground": "#3D4313",
+    "titleBar.activeForeground": "#F9FBF0"
+  }
 }
