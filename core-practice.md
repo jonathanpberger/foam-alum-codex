@@ -1,6 +1,5 @@
 ---
 title: Core Practices
-layout: default
 tags: "Agile Resources"
 ---
 

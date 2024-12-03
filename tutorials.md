@@ -1,7 +1,6 @@
 ---
 title: Dev Tutorials
-parent: Engineering Topics
-layout: default
+tags: engineering
 ---
 
 # Dev Tutorials

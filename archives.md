@@ -1,6 +1,5 @@
 ---
 title: Pivotal Website Archives
-parent: Pivotal History
 tags: history
 ---
 

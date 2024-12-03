@@ -1,3 +1,9 @@
+---
+title: Project Management - A Tree Swing Story
+tags: product, "Agile Resources"
+---
+
+
 # Project Management - A Tree Swing Story
 
 ![](./assets/images/tree-swing-story.png)

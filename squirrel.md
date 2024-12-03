@@ -1,7 +1,6 @@
 ---
 title: The Pivotal Squirrel
-parent: Pivotal History
-layout: default
+tags: history
 ---
 
 # What is the "Pivotal Squirrel"?

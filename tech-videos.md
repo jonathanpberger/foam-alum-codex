@@ -1,7 +1,6 @@
 ---
 title: Tech Videos
-parent: Engineering Topics
-layout: default
+tags: engineering
 ---
 
 # Tech Videos
@@ -97,14 +96,14 @@ At some Pivotal offices (Santa Monica, San Francisco—which others?) Pivots and
 - [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [J. B. Rainsberger - Integrated Tests Are a Scam](http://vimeo.com/80533536)
 - [Anders Hejlsberg - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
-- [Rich Hickey - The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) 
+- [Rich Hickey - The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU)
   -  Needs to be 2-part
 - [Linear Book Scanner](https://www.youtube.com/watch?v=4JuoOaL11bw)
 - [Mike Desjardins - Rails Sojourn: One Man's Journey](http://confreaks.com/videos/2731-wickedgoodruby-rails-sojourn-one-man-s-journey)
 - [Theo Schlossnagle - Career Development](http://www.youtube.com/watch?v=y0mHo7SMCQk)
 - [Martijn Verburg - The Diabolical Developer](http://www.youtube.com/watch?v=yuqp5lNPG8w)
 - [Bryan Lunduke - Linux Sucks](https://www.youtube.com/watch?v=5pOxlazS3zs)
-- [Steve Yegge - GROK](http://www.youtube.com/watch?v=KTJs-0EInW8) 
+- [Steve Yegge - GROK](http://www.youtube.com/watch?v=KTJs-0EInW8)
   - Needs to be 2-part, this is a 1hour 20min talk
 - [Sarah Clatterbuck - Stealth Accessibility](https://www.youtube.com/watch?v=vNCG0Yh3lYo)
 - [Satya Kanduri, Abhimanyu Lad - Search Quality at LinkedIn](https://www.youtube.com/watch?v=6G-xo628CHU)

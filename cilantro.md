@@ -1,6 +1,5 @@
 ---
 title: Cilantro Haiku
-parent: Pivotal History
 tags: haiku, history
 ---
 
